@@ -1,0 +1,6 @@
+crawl4ai>=0.6.0
+pandas
+google-generativeai
+python-dotenv
+tqdm
+asyncio
